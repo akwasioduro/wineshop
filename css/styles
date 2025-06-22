@@ -35,7 +35,7 @@ nav a {
 .hero {
   padding: 50px;
   text-align: center;
-  background-color: #fff0e6;
+  background-color: #392c24;
 }
 
 .products {
